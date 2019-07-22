@@ -1,0 +1,8 @@
+environment: dev
+api:
+  port: 80
+db:
+  user: root
+  password: ''
+  database: seed
+  host: localhost

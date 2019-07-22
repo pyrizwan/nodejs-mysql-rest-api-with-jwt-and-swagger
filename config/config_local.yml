@@ -1,0 +1,8 @@
+environment: local
+api:
+  port: 5000
+db:
+  user: root
+  password: ''
+  database: seed
+  host: localhost
